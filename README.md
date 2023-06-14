@@ -19,7 +19,7 @@ The unix time and timezone from the API is used to calculate the local time and 
 
 - React JS
 - Styled Components
-- React Hooks - useState & useEffect Only
+- React Hooks - useState, useRef & useEffect Only
 - Openweather.org's API
 
 ## Furthur Improvements
