@@ -33,6 +33,5 @@ Also, for CSS, we can refactor using
 
 - TailwindCSS
 - Chakra UI
-- Material
 
 The options here are endless...
