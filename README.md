@@ -21,3 +21,18 @@ The unix time and timezone from the API is used to calculate the local time and 
 - Styled Components
 - React Hooks - useState & useEffect Only
 - Openweather.org's API
+
+## Furthur Improvements
+
+Instead of useEffect, this can be solved using,
+
+- Context API
+- React Query
+
+Also, for CSS, we can refactor using
+
+- TailwindCSS
+- Chakra UI
+- Material
+
+The options here are endless...
