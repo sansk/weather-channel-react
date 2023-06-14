@@ -2,8 +2,8 @@
 
 <div align="center">
   <h3>
-   <a href="https://{your-url-to-the-solution}">
-      Solution
+   <a href="https://sk-weather-app-react.netlify.app/">
+      Demo
     </a>
   </h3>
 </div>
